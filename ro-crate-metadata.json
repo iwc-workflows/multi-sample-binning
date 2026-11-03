@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2026-10-11T12:22:21.713155",
+            "datePublished": "2026-11-03T14:54:40.119420",
             "hasPart": [
                 {
                     "@id": "multi-sample-binning.ga"
@@ -78,7 +78,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/multi-sample-binning",
-            "version": "1.0"
+            "version": "1.1"
         },
         {
             "@id": "#galaxy",
